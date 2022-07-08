@@ -1,0 +1,4 @@
+﻿  Jogo da memória.cpp
+C:\Repositórios\Jogo da memória\Jogo da memória\Jogo da memória.cpp(11,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Repositórios\Jogo da memória\Jogo da memória\Jogo da memória.cpp(10,147): warning C4101: 'tV': variável local não referenciada
+  Jogo da memória.vcxproj -> C:\Repositórios\Jogo da memória\x64\Debug\Jogo da memória.exe
